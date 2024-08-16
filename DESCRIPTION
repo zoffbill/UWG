@@ -1,0 +1,10 @@
+Package: UWG
+Type: Package
+Title: Distribution UWG
+Version: 0.1.0
+Authors@R: c(person("ZOFFOUN", "Bill Géoffroy Djidjoho", email = "zoffbill8@gmail.com"))
+Description: Un package pour la distribution UWG, incluant des fonctions pour la densité, la fonction de répartition, le quantile, et l'estimation des paramètres.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
